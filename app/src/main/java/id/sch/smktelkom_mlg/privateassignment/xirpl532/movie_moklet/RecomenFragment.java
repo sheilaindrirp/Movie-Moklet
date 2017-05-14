@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.privateassignment.xirpl403.adfocs;
+package id.sch.smktelkom_mlg.privateassignment.xirpl532.movie_moklet;
 
 
 import android.os.Bundle;
