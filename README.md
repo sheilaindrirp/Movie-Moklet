@@ -7,7 +7,7 @@
 <br>
 
 #### B. (LINK DOWNLOAD)
-<P> https://drive.google.com/drive/u/0/my-drive </P>
+<P> https://drive.google.com/open?id=0B3RZyRrXDdfEUzYzc2JMNC16M1U </P>
 
 <br>
 
